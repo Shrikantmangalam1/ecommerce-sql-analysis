@@ -330,5 +330,10 @@ ecommerce-sql-analysis/
 Feel free to connect or reach out if you have questions about the project or the SQL methodology used.
 
 ---
+## 🔗 Connect
+
+- 💼 LinkedIn: [Shrikant Mangalam](www.linkedin.com/in/shrikant-mangalam-75148126a)
+- 📧 Email: shrikantmangalam2002@email.com
+- 🐙 GitHub: [@Shrikantmangalam1](https://github.com/Shrikantmangalam1)
 
 *This project was built as part of a SQL portfolio to demonstrate proficiency from basic queries to advanced analytical SQL using a real-world ecommerce schema.*
